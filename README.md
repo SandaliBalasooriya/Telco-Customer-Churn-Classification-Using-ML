@@ -9,5 +9,5 @@ The project includes:
 - **Data Preprocessing:** Handling missing values, encoding categorical variables, scaling features, and preparing data for models.
 - **Machine Learning Models:**
   - Decision Tree Classifier
-  - Neural Network (Deep Learning)
+  - Neural Network 
 - **Model Evaluation:** Accuracy, confusion matrix, classification report, and comparison between models.
